@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aavash/Desktop/mlflow/mlruns/0/ad87ae8701a54e689e49b2ada51bed96/artifacts
+end_time: 1683275632035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad87ae8701a54e689e49b2ada51bed96
+run_name: enchanting-carp-491
+run_uuid: ad87ae8701a54e689e49b2ada51bed96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683275629414
+status: 3
+tags: []
+user_id: aavash

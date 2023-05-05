@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aavash/Desktop/mlflow/mlruns/0/ec0ef8eef80c43bfbe07f5828f51178e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec0ef8eef80c43bfbe07f5828f51178e
+run_name: dashing-ape-185
+run_uuid: ec0ef8eef80c43bfbe07f5828f51178e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683273413951
+status: 1
+tags: []
+user_id: aavash

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aavash/Desktop/mlflow/mlruns/0/7fba3096ab754e39bc2557f2c6b2ea77/artifacts
+end_time: 1683272387809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fba3096ab754e39bc2557f2c6b2ea77
+run_name: funny-gnat-77
+run_uuid: 7fba3096ab754e39bc2557f2c6b2ea77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683272384979
+status: 3
+tags: []
+user_id: aavash

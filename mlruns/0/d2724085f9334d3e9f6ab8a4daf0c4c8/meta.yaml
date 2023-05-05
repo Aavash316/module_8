@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aavash/Desktop/mlflow/mlruns/0/d2724085f9334d3e9f6ab8a4daf0c4c8/artifacts
+end_time: 1683272399794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2724085f9334d3e9f6ab8a4daf0c4c8
+run_name: charming-steed-314
+run_uuid: d2724085f9334d3e9f6ab8a4daf0c4c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683272398201
+status: 3
+tags: []
+user_id: aavash
